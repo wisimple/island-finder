@@ -34,7 +34,7 @@ If you don't have Deno installed, you can install it by following these steps:
 1. Install Deno using the following command:
 
 ```bash
-curl -fsSL https://deno.land/x/install/install.sh | sh
+brew install deno
 ```
 
 2. Verify the installation
